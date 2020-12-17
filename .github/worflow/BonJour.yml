@@ -1,5 +1,5 @@
 # .github/workflows/siteCantina.yml
-name: Cantina build and Deploy to Netlify
+name: Sitecantine build and Deploy to Netlify
 on:
   push:
   pull_request:
